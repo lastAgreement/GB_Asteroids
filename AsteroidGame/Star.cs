@@ -37,6 +37,8 @@ namespace AsteroidGame
             Size = new Size(speed, speed);
             InitRotateRandomizer();
         }
+        //TO DO
+        //можно более красиво, я уверена
         void InitRotateRandomizer()
         {
             rotateRandomizer.Add(1, RotateFlipType.Rotate90FlipNone);

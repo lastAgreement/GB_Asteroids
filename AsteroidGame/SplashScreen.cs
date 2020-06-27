@@ -7,13 +7,6 @@ namespace AsteroidGame
     static class SplashScreen
     {
         static Form form = new Form();
-        //private static BufferedGraphicsContext _context;
-        //public static BufferedGraphics Buffer;
-
-        //public static BaseObject[] _objs;
-        //public static int Width { get; set; }
-        //public static int Height { get; set; }
-        //static Random random = new Random();
         static SplashScreen()
         {
             SetFormProperties();
@@ -28,6 +21,8 @@ namespace AsteroidGame
             form.Width = 1024;
             form.Height = 720;
             form.BackColor = Color.Black;
+            //TO DO
+            //эти конструкторы можно написать приличнее
             form.Controls.Add(CreateStartButton());
             form.Controls.Add(CreateRecordsButton());
             form.Controls.Add(CreateExitButton());
@@ -47,6 +42,8 @@ namespace AsteroidGame
             Button button = CreateButton("Records");
             button.Location = new Point(form.Width / 2 - button.Size.Width / 2,
                 4 * form.Height / 8 - button.Size.Height / 2);
+            //TO DO
+            //button.Click += ShowRecordsList;
             return button;
         }
         static Button CreateExitButton()

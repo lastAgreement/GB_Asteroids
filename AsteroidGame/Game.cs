@@ -48,7 +48,8 @@ namespace AsteroidGame
             }
             for (int i = 8; i < _objs.Length; i++)
             {
-                //почему не работает конструктор рандома? :(
+                //TO DO
+                //почему некорректно работает конструктор рандома? :(
                 //_objs[i] = new Star();
                 _objs[i] = new Star(
                     new Point(random.Next(0, Width), random.Next(0, Height)),
@@ -71,6 +72,8 @@ namespace AsteroidGame
             {
                 Buffer.Render();
             }
+            //TO DO
+            //нужен обработчик закрытия формы, не знаю, как написать
             catch(Exception ex)
             {
                 timer.Stop();
