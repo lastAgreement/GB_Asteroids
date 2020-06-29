@@ -9,7 +9,6 @@ namespace AsteroidGame
         protected Point Dir;
         protected Size Size;
         protected Image image = Image.FromFile("Images/broken_image_M1.jpg"); 
-        protected Random random = new Random();
         public BaseObject()
         {
             GetRandomValues();
@@ -35,9 +34,9 @@ namespace AsteroidGame
         }
         protected virtual void GetRandomValues()
         {
-            Pos = new Point(random.Next(0, Game.Width), random.Next(0, Game.Height));
-            Dir = new Point(random.Next(1, 10), random.Next(1, 10));
-            Size = new Size(random.Next(3, 10), random.Next(3, 10));
+            Pos = new Point(GlobalRandom.Next(0, Game.Width), GlobalRandom.Next(0, Game.Height));
+            Dir = new Point(GlobalRandom.Next(1, 10), GlobalRandom.Next(1, 10));
+            Size = new Size(GlobalRandom.Next(3, 10), GlobalRandom.Next(3, 10));
         }
 
     }

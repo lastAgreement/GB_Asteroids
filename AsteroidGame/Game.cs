@@ -12,12 +12,9 @@ namespace AsteroidGame
         static BaseObject[] _objs;
         public static int Width { get; private set; }
         public static int Height { get; private set; }
-        static Random random = new Random();
-        static Timer timer = new Timer { Interval = 100 };
+        static Timer timer;
         static DateTime startDate = DateTime.Now;
-        static Game()
-        {
-        }
+        static Game() { }
         public static void Init(Form form)
         {
             Graphics g;
@@ -26,7 +23,8 @@ namespace AsteroidGame
             Width = form.ClientSize.Width;
             Height = form.ClientSize.Height;
             Buffer = _context.Allocate(g, new Rectangle(0, 0, Width, Height));
-            Load();            
+            Load();
+            timer = new Timer { Interval = 100 };
             timer.Start();
             timer.Tick += Timer_Tick;
         }
@@ -48,15 +46,7 @@ namespace AsteroidGame
             }
             for (int i = 8; i < _objs.Length; i++)
             {
-                //TO DO
-                //почему некорректно работает конструктор рандома? :(
-                //_objs[i] = new Star();
-                _objs[i] = new Star(
-                    new Point(random.Next(0, Width), random.Next(0, Height)),
-                    new Point(random.Next(1, 15), 0),
-                    new Size(0, 0)
-                    );
-
+                _objs[i] = new Star();
             }           
         }
         private static void Draw()

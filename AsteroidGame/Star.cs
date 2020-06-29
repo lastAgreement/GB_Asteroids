@@ -25,14 +25,14 @@ namespace AsteroidGame
         }
         public override void Update()
         {
-            image.RotateFlip(rotateRandomizer[random.Next(1,4)]);
+            image.RotateFlip(rotateRandomizer[GlobalRandom.Next(1,4)]);
             Pos.X = Pos.X - Dir.X;
             if (Pos.X < 0) Pos.X = Game.Width + Size.Width;
         }
         protected override void GetRandomValues()
         {
-            int speed = random.Next(1, 15);
-            Pos = new Point(random.Next(0, Game.Width), random.Next(0, Game.Height));
+            int speed = GlobalRandom.Next(1, 15);
+            Pos = new Point(GlobalRandom.Next(0, Game.Width), GlobalRandom.Next(0, Game.Height));
             Dir = new Point(speed, 0);
             Size = new Size(speed, speed);
             InitRotateRandomizer();

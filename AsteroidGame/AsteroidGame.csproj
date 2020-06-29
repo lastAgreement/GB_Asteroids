@@ -45,12 +45,13 @@
     <Compile Include="BrightStar.cs" />
     <Compile Include="Comet.cs" />
     <Compile Include="Game.cs" />
+    <Compile Include="GlobalRandom.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="SplashScreen.cs" />
     <Compile Include="Star.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Images\Bright.jpg">
+    <Content Include="Images\Bright.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Images\broken_image_M1.jpg">

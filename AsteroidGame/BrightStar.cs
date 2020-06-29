@@ -13,7 +13,7 @@ namespace AsteroidGame
         StarBStatus status;
         public BrightStar() : base()
         {
-            image = Image.FromFile("Images/Bright.jpg");
+            image = Image.FromFile("Images/Bright.png");
         }
         public BrightStar(Point pos, Point dir, Size size) : base(pos, dir, size)
         {
@@ -25,7 +25,7 @@ namespace AsteroidGame
         public override void Update()
         {
             Pos.X--;
-            if (Pos.X < 0) Pos.X = Game.Width + Size.Width + random.Next(50, 100);
+            if (Pos.X < 0) Pos.X = Game.Width + Size.Width + GlobalRandom.Next(50, 100);
 
             if (status == StarBStatus.GROWTH)
             {
@@ -58,9 +58,9 @@ namespace AsteroidGame
         }
         protected override void GetRandomValues()
         {
-            int size = random.Next(20, 50);
-            Pos = new Point(random.Next(0, Game.Width), random.Next(0, Game.Height/20)*20);
-            Dir = new Point(random.Next(-3, 3), 0);
+            int size = GlobalRandom.Next(20, 50);
+            Pos = new Point(GlobalRandom.Next(0, Game.Width), GlobalRandom.Next(0, Game.Height/20)*20);
+            Dir = new Point(GlobalRandom.Next(-3, 3), 0);
             Size = new Size(size, size);
 
             if (Dir.X < 0) status = StarBStatus.RECESSION;
