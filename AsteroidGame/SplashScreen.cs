@@ -80,6 +80,7 @@ namespace AsteroidGame
             Form gameForm = new Form();
             gameForm.Width = 1600;
             gameForm.Height = 900;
+            gameForm.FormClosing += Game.Close;
             Game.Init(gameForm);
             gameForm.Show();
         }
