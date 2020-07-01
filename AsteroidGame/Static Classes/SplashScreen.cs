@@ -6,42 +6,42 @@ namespace AsteroidGame
 {
     static class SplashScreen
     {
-        static Form form = new Form();
+        static Form mainForm = new Form();
         static SplashScreen()
         {
             SetFormProperties();
         }
         public static void Init()
         {
-            form.Show();
-            Application.Run(form);
+            mainForm.Show();
+            Application.Run(mainForm);
         }
         static void SetFormProperties()
         {
-            form.Width = 1024;
-            form.Height = 720;
-            form.BackColor = Color.Black;
+            mainForm.Width = 1024;
+            mainForm.Height = 720;
+            mainForm.BackColor = Color.Black;
             //TO DO
             //эти конструкторы можно написать приличнее
-            form.Controls.Add(CreateStartButton());
-            form.Controls.Add(CreateRecordsButton());
-            form.Controls.Add(CreateExitButton());
-            form.Controls.Add(CreateLabel("DirectedBy M.Grigorian", new Point(form.Width - 300, form.Height - 50), new Font("Arial", 10)));
-            form.Controls.Add(CreateLabel("ASTEROIDS", new Point(form.Width / 2, form.Height / 6), new Font("Arial", 32)));
+            mainForm.Controls.Add(CreateStartButton());
+            mainForm.Controls.Add(CreateRecordsButton());
+            mainForm.Controls.Add(CreateExitButton());
+            mainForm.Controls.Add(CreateLabel("DirectedBy M.Grigorian", new Point(mainForm.Width - 300, mainForm.Height - 50), new Font("Arial", 10)));
+            mainForm.Controls.Add(CreateLabel("ASTEROIDS", new Point(mainForm.Width / 2, mainForm.Height / 6), new Font("Arial", 32)));
         }
         static Button CreateStartButton()
         {
-            Button button = CreateButton("Start");
-            button.Location = new Point(form.Width / 2 - button.Size.Width / 2,
-                3 * form.Height / 8 - button.Size.Height / 2);
+            Button button = CreateButton("StartButton");
+            button.Location = new Point(mainForm.Width / 2 - button.Size.Width / 2,
+                3 * mainForm.Height / 8 - button.Size.Height / 2);
             button.Click += StartGame;
             return button;
         }
         static Button CreateRecordsButton()
         {
             Button button = CreateButton("Records");
-            button.Location = new Point(form.Width / 2 - button.Size.Width / 2,
-                4 * form.Height / 8 - button.Size.Height / 2);
+            button.Location = new Point(mainForm.Width / 2 - button.Size.Width / 2,
+                4 * mainForm.Height / 8 - button.Size.Height / 2);
             //TO DO
             //button.Click += ShowRecordsList;
             return button;
@@ -49,8 +49,8 @@ namespace AsteroidGame
         static Button CreateExitButton()
         {
             Button button = CreateButton("Exit");
-            button.Location = new Point(form.Width / 2 - button.Size.Width / 2,
-                5 * form.Height / 8 - button.Size.Height / 2);
+            button.Location = new Point(mainForm.Width / 2 - button.Size.Width / 2,
+                5 * mainForm.Height / 8 - button.Size.Height / 2);
             button.Click += ExitGame;
             return button;
         }
@@ -80,13 +80,23 @@ namespace AsteroidGame
             Form gameForm = new Form();
             gameForm.Width = 1600;
             gameForm.Height = 900;
+            gameForm.Shown += HideMainForm;
             gameForm.FormClosing += Game.Close;
+            gameForm.FormClosing += ShowForm;
             Game.Init(gameForm);
             gameForm.Show();
         }
         static void ExitGame(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+        static void HideMainForm(object sender, EventArgs e)
+        {
+            mainForm.Hide();
+        }
+        static void ShowForm(object sender, EventArgs e)
+        {
+            mainForm.Show();
         }
     }
 }

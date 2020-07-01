@@ -30,7 +30,7 @@ namespace AsteroidGame
         }
         protected override void GetRandomValues()
         {
-            int speed = GlobalRandom.Next(5, 10);
+            int speed = GlobalRandom.Next(3, 5);
             Pos = new Point(GlobalRandom.Next(Game.Width + 100, Game.Width + 500), GlobalRandom.Next(-500, -50));
             Dir = new Point(speed, speed / 2);
             Size = new Size(speed * 10, speed * 10);

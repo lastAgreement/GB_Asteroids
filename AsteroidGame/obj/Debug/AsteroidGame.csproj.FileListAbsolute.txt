@@ -8,3 +8,6 @@ C:\Projects\AsteroidGame\AsteroidGame\bin\Debug\Images\broken_image_M1.jpg
 C:\Projects\AsteroidGame\AsteroidGame\bin\Debug\Images\star.png
 C:\Projects\AsteroidGame\AsteroidGame\bin\Debug\Images\comet1.png
 C:\Projects\AsteroidGame\AsteroidGame\bin\Debug\Images\Bright.png
+C:\Projects\AsteroidGame\AsteroidGame\bin\Debug\Images\Asteroid1.png
+C:\Projects\AsteroidGame\AsteroidGame\bin\Debug\Images\Asteroid2.png
+C:\Projects\AsteroidGame\AsteroidGame\bin\Debug\Images\Asteroid3.png
