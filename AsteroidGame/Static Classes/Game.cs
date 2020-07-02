@@ -10,8 +10,8 @@ namespace AsteroidGame
         static BufferedGraphicsContext _context;
         public static BufferedGraphics Buffer;
 
-        static List<BaseObject> BackgroundObjs;
-        static List<BaseObject> GameObjs;
+        static List<BaseObject> BackgroundObjects; 
+        static List<BaseObject> GameObjects;
 
         public static int Width { get; private set; }
         public static int Height { get; private set; }
@@ -24,7 +24,7 @@ namespace AsteroidGame
                 || form.Width > 1920 || form.Height > 1080)
                 throw new ArgumentOutOfRangeException("Form dimensions are out of range.");
             InitGraphics(form);
-            LoadObjects();
+            InitObjects();
             SetTimer();
         }
         private static void InitGraphics(Form form)
@@ -47,44 +47,44 @@ namespace AsteroidGame
             Draw();
             Update();
         }
-        private static void LoadObjects()
+        private static void InitObjects()
         {
-            LoadBackgroundObjects();
-            LoadGameObjects();
+            InitBackgroundObjects();
+            InitGameObjects();
         }
-        private static void LoadBackgroundObjects()
+        private static void InitBackgroundObjects()
         {
-            BackgroundObjs = new List<BaseObject>();
+            BackgroundObjects = new List<BaseObject>();
             for (int i = 0; i < 5; i++)
             {
-                BackgroundObjs.Add(new BrightStar());
+                BackgroundObjects.Add(new BrightStar());
             }
             for (int i = 0; i < 3; i++)
             {
-                BackgroundObjs.Add(new Comet());
+                BackgroundObjects.Add(new Comet());
             }
             for (int i = 0; i < 50; i++)
             {
-                BackgroundObjs.Add(new Star());
+                BackgroundObjects.Add(new Star());
         }
         }
-        private static void LoadGameObjects()
+        private static void InitGameObjects()
         {
-            GameObjs = new List<BaseObject>();
-            GameObjs.Add(new Bullet(new Point(100, 430), new Point(15,15), new Size()));
-            GameObjs.Add(new Bullet(new Point(100, 430), new Point(15, 0), new Size()));
-            GameObjs.Add(new Bullet(new Point(100, 430), new Point(15, -15), new Size()));
+            GameObjects = new List<BaseObject>();
+            GameObjects.Add(new Bullet(new Point(100, 430), new Point(15,15), new Size()));
+            GameObjects.Add(new Bullet(new Point(100, 430), new Point(15, 0), new Size()));
+            GameObjects.Add(new Bullet(new Point(100, 430), new Point(15, -15), new Size()));
             for (int i = 0; i < 10; i++)
             {
-                GameObjs.Add(new Asteroid());
+                GameObjects.Add(new Asteroid());
             }
         }
         private static void Draw()
         {
             Buffer.Graphics.Clear(Color.Black);
-            foreach (BaseObject obj in BackgroundObjs)
+            foreach (BaseObject obj in BackgroundObjects)
                 obj.Draw();
-            foreach (BaseObject obj in GameObjs)
+            foreach (BaseObject obj in GameObjects)
                 obj.Draw();
             string GameSize = Game.Width + "x" + Game.Height;
             string GameTime = (DateTime.Now - startDate).ToString().Substring(0,8);
@@ -93,25 +93,24 @@ namespace AsteroidGame
         }
         private static void Update()
         {
-            foreach (BaseObject obj in BackgroundObjs)
+            foreach (BaseObject obj in BackgroundObjects)
                 obj.Update();
-            foreach (BaseObject obj in GameObjs)
+            foreach (BaseObject obj in GameObjects)
                 obj.Update();
 
             PerformCollisions();            
         }
         private static void PerformCollisions()
         {
-            for (int i = 0; i < GameObjs.Count; i++)
-                for (int j = i+1; j < GameObjs.Count; j++)
+            for (int i = 0; i < GameObjects.Count; i++)
+                for (int j = i+1; j < GameObjects.Count; j++)
                 {
-                    if ( GameObjs[j].HaveCollision(GameObjs[i])
-                        && (GameObjs[i] is Asteroid && GameObjs[j] is Bullet
-                        || GameObjs[i] is Bullet && GameObjs[j] is Asteroid) )
+                    if ( GameObjects[j].HaveCollision(GameObjects[i])
+                        && (GameObjects[i] is Asteroid && GameObjects[j] is Bullet
+                        || GameObjects[i] is Bullet && GameObjects[j] is Asteroid) )
                     {
-                        GameObjs[i].ResetPos();
-                        GameObjs[j].ResetPos();
-                        
+                        GameObjects[i].ResetPos();
+                        GameObjects[j].ResetPos();                        
                     }
                 }
         }

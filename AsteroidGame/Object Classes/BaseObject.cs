@@ -3,7 +3,7 @@ using System.Drawing;
 
 namespace AsteroidGame
 {
-    abstract class BaseObject: ICollision
+    abstract class BaseObject: ICollidable
     {
         protected Point Pos;
         protected Point Dir;
@@ -32,7 +32,7 @@ namespace AsteroidGame
         #region Public Methods
         public abstract void Draw();
         public abstract void Update();
-        public bool HaveCollision(ICollision obj)
+        public bool HaveCollision(ICollidable obj)
         {
             return this.ObjectFrame.IntersectsWith(obj.ObjectFrame);
         }

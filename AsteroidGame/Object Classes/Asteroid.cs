@@ -8,10 +8,12 @@ namespace AsteroidGame
         public Asteroid() : base()
         {
             image = Image.FromFile("Images/Asteroid1.png");
+            image = RotateUtils.RandomRotateImage(image);
         }
         public Asteroid(Point pos, Point dir, Size size) : base(pos, dir, size)
         {
             image = Image.FromFile("Images/Asteroid1.png");
+            image = RotateUtils.RandomRotateImage(image);
         }
         public override void Draw()
         {

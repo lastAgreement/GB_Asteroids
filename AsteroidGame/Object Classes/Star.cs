@@ -6,7 +6,6 @@ namespace AsteroidGame
 {
     class Star : BaseObject
     {
-        protected Dictionary<int, RotateFlipType> rotateRandomizer = new Dictionary<int, RotateFlipType>();
         public Star() : base()
         {
             image = Image.FromFile("Images/star.png");
@@ -16,7 +15,6 @@ namespace AsteroidGame
             image = Image.FromFile("Images/star.png");
             Size.Width = dir.X;
             Size.Height = dir.X;
-            InitRotateRandomizer();
         }
         public override void Draw()
         {
@@ -25,7 +23,7 @@ namespace AsteroidGame
         }
         public override void Update()
         {
-            image.RotateFlip(rotateRandomizer[GlobalRandom.Next(1,4)]);
+            RotateUtils.RandomRotateFlipImage(image);
             Pos.X = Pos.X - Dir.X;
             if (Pos.X < 0) Pos.X = Game.Width + Size.Width;
         }
@@ -35,16 +33,6 @@ namespace AsteroidGame
             Pos = new Point(GlobalRandom.Next(0, Game.Width), GlobalRandom.Next(0, Game.Height));
             Dir = new Point(speed, 0);
             Size = new Size(speed, speed);
-            InitRotateRandomizer();
-        }
-        //TO DO
-        //можно более красиво, я уверена
-        void InitRotateRandomizer()
-        {
-            rotateRandomizer.Add(1, RotateFlipType.Rotate90FlipNone);
-            rotateRandomizer.Add(2, RotateFlipType.Rotate180FlipNone);
-            rotateRandomizer.Add(3, RotateFlipType.Rotate270FlipNone);
-            rotateRandomizer.Add(4, RotateFlipType.RotateNoneFlipNone);
         }
     }
     

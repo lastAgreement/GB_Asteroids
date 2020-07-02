@@ -3,9 +3,9 @@ using System.Drawing;
 
 namespace AsteroidGame
 {
-    interface ICollision
+    interface ICollidable
     {
         Rectangle ObjectFrame { get; }
-        bool HaveCollision(ICollision obj);
+        bool HaveCollision(ICollidable obj);
     }
 }
