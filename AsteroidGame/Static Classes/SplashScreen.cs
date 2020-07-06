@@ -75,13 +75,12 @@ namespace AsteroidGame
             label.Location = new Point(location.X - label.Size.Width / 2, location.Y - label.Size.Height / 2);
             return label;
         }
-        static void StartGame(object sender, EventArgs e)
+        public static void StartGame(object sender, EventArgs e)
         {
             Form gameForm = new Form();
             gameForm.Width = 1600;
             gameForm.Height = 900;
             gameForm.Shown += HideMainForm;
-            gameForm.FormClosing += Game.Close;
             gameForm.FormClosing += ShowForm;
             Game.Init(gameForm);
             gameForm.Show();

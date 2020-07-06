@@ -2,29 +2,47 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
+using AsteroidGame.UtilityClasses;
 
 namespace AsteroidGame
 {
     static class Game
     {
-        static BufferedGraphicsContext _context;
-        public static BufferedGraphics Buffer;
-
+        #region GameObjects
         static List<BaseObject> BackgroundObjects; 
-        static List<BaseObject> GameObjects;
-
+        static List<Asteroid> Asteroids;
+        static List<Bullet> Bullets;
+        static List<Battery> Batteries;
+        static List<BaseObject> ToBeRemovedObjects;
+        static Ship Ship;
+        #endregion
+        #region Properties
+        static DateTime startOn = DateTime.Now;
+        public static int Score { get; private set; }
         public static int Width { get; private set; }
         public static int Height { get; private set; }
+        #endregion
+        #region Utilities Fields
+        static BufferedGraphicsContext _context;
+        public static BufferedGraphics Buffer;
         static Timer timer;
-        static DateTime startDate = DateTime.Now;
-        static Game() { }
+        static Action<object, string, string> logger;
+        #endregion
+        #region Init Methods
+        static Game() {
+            logger = new Action<object, string, string>(LogUtils.WriteToConsole);
+            logger += new Action<object, string, string>(LogUtils.WriteToFile);
+        }
         public static void Init(Form form)
         {
             if (form.Width < 0 || form.Height < 0
                 || form.Width > 1920 || form.Height > 1080)
                 throw new ArgumentOutOfRangeException("Form dimensions are out of range.");
             InitGraphics(form);
+            SubscribeFormEvents(form);
             InitObjects();
+            Score = 0;
+            logger(null, "GameInitialized", null);
             SetTimer();
         }
         private static void InitGraphics(Form form)
@@ -36,16 +54,17 @@ namespace AsteroidGame
             Height = form.ClientSize.Height;
             Buffer = _context.Allocate(g, new Rectangle(0, 0, Width, Height));
         }
+        private static void SubscribeFormEvents(Form form)
+        {
+            form.FormClosing += Form_FormClosing;
+            form.KeyPress += Form_KeyPress;
+        }
         private static void SetTimer()
         {
             timer = new Timer { Interval = 100 };
             timer.Tick += Timer_Tick;
             timer.Start();
-        }
-        private static void Timer_Tick(object sender, EventArgs e)
-        {
-            Draw();
-            Update();
+            logger(timer, "Started", null);
         }
         private static void InitObjects()
         {
@@ -66,57 +85,166 @@ namespace AsteroidGame
             for (int i = 0; i < 50; i++)
             {
                 BackgroundObjects.Add(new Star());
-        }
+            }
         }
         private static void InitGameObjects()
         {
-            GameObjects = new List<BaseObject>();
-            GameObjects.Add(new Bullet(new Point(100, 430), new Point(15,15), new Size()));
-            GameObjects.Add(new Bullet(new Point(100, 430), new Point(15, 0), new Size()));
-            GameObjects.Add(new Bullet(new Point(100, 430), new Point(15, -15), new Size()));
+            Ship = new Ship();
+            Ship.ShipDamaged += Ship_ShipDamaged;
+            Ship.ShipDied += GameOver; 
+            
+            Bullets = new List<Bullet>();
+            Batteries = new List<Battery>();
+            Asteroids = new List<Asteroid>();
             for (int i = 0; i < 10; i++)
             {
-                GameObjects.Add(new Asteroid());
+                Asteroids.Add(new Asteroid());
+            }
+            ToBeRemovedObjects = new List<BaseObject>();
+        }
+        #endregion
+        #region EventHandlers Methods
+        private static void Form_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            logger(sender, "Form_FormClosing", e.CloseReason.ToString());
+            timer.Stop();
+        }
+        private static void Form_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            logger(sender, "Form_KeyPress", e.KeyChar.ToString());
+            switch (e.KeyChar)
+            {
+                case 'w':
+                case 's':
+                case 'a':
+                case 'd':
+                    Ship.ChangeVelocity(e.KeyChar);
+                    break;
+                case 'f':
+                    Bullet bullet = Ship.Fire();
+                    bullet.BulletSpent += Bullet_BulletSpent;
+                    Bullets.Add(bullet);
+                    break;
+                case (char)Keys.Escape:
+                    Form gameForm = (Form)sender;
+                    gameForm.Close();
+                    break;
             }
         }
+        private static void Bullet_BulletSpent(object sender, GameObjectEventArgs e)
+        {
+            Bullet bullet = (Bullet)sender;
+            logger(sender, "Bullet_BulletSpent", e.EventType.ToString());
+            if (e.EventType == GameObjectEventArgsType.BULLET_COLLIEDED_WITH_ASTEROID) Score+=5;
+            logger(null, "Score", Score.ToString());
+            ToBeRemovedObjects.Add(bullet);
+        }
+        private static void Battery_BatterySpent(object sender, GameObjectEventArgs e)
+        {
+            Battery battery = (Battery)sender;
+            logger(sender, "Battery_BatterySpent", e.EventType.ToString());
+            ToBeRemovedObjects.Add(battery);
+        }
+        private static void Ship_ShipDamaged(object sender, GameObjectEventArgs e)
+        {
+            logger(sender, "Ship_ShipDamaged", e.EventType.ToString());
+            if (Score>0) Score--;
+            logger(null, "Score", Score.ToString());
+        }
+        private static void GameOver(object sender, EventArgs e)
+        {
+            timer.Stop();
+            Buffer.Graphics.DrawString("GAME OVER", new Font(FontFamily.GenericSansSerif, 60, FontStyle.Bold), Brushes.White, 200, 100);
+            Buffer.Render();
+            logger(null, "GameOver", null);
+        }
+        private static void Timer_Tick(object sender, EventArgs e)
+        {
+            Draw();
+            Update();
+        }
+        #endregion
+        #region Processing Methods
         private static void Draw()
         {
             Buffer.Graphics.Clear(Color.Black);
+
             foreach (BaseObject obj in BackgroundObjects)
                 obj.Draw();
-            foreach (BaseObject obj in GameObjects)
+            foreach (BaseObject obj in Batteries)
                 obj.Draw();
+            foreach (BaseObject obj in Bullets)
+                obj.Draw();
+            Ship.Draw();
+            foreach (BaseObject obj in Asteroids)
+                obj.Draw();
+
             string GameSize = Game.Width + "x" + Game.Height;
-            string GameTime = (DateTime.Now - startDate).ToString().Substring(0,8);
-            Game.Buffer.Graphics.DrawString(GameSize + "     " + GameTime, new Font("Arial", 10), new SolidBrush(Color.White), 10, 10);
+            string GameTime = (DateTime.Now - startOn).ToString().Substring(0,8);
+            Game.Buffer.Graphics.DrawString(GameSize + "\t" + GameTime, SystemFonts.DefaultFont, Brushes.White, 10, 10);
+            Buffer.Graphics.DrawString("Energy:" + Ship.Energy + "\tScore:" + Score, SystemFonts.DefaultFont, Brushes.White, 10, 30);
+
             Buffer.Render();
         }
         private static void Update()
         {
+            Ship.Update();
             foreach (BaseObject obj in BackgroundObjects)
                 obj.Update();
-            foreach (BaseObject obj in GameObjects)
+            foreach (BaseObject obj in Batteries)
                 obj.Update();
+            foreach (BaseObject obj in Bullets)
+                obj.Update();
+            foreach (BaseObject obj in Asteroids)
+                obj.Update();
+            RemoveObjects();
+            PerformCollisions();
 
-            PerformCollisions();            
+            if (Batteries.Count < 3 && GlobalRandom.Next(0, 1000) < 100)
+            {
+                Battery battery = new Battery();
+                battery.BatterySpent += Battery_BatterySpent; 
+                battery.BatterySpent += Ship.Battery_BatterySpent;
+                Batteries.Add(battery);
+            }
         }
         private static void PerformCollisions()
         {
-            for (int i = 0; i < GameObjects.Count; i++)
-                for (int j = i+1; j < GameObjects.Count; j++)
+            for (int i = 0; i < Asteroids.Count; i++)
+            {
+                for (int j = 0; j < Bullets.Count; j++)
                 {
-                    if ( GameObjects[j].HaveCollision(GameObjects[i])
-                        && (GameObjects[i] is Asteroid && GameObjects[j] is Bullet
-                        || GameObjects[i] is Bullet && GameObjects[j] is Asteroid) )
+                    if (Bullets[j].HaveCollision(Asteroids[i])) 
                     {
-                        GameObjects[i].ResetPos();
-                        GameObjects[j].ResetPos();                        
+                        Asteroids[i].ResetPos(); 
                     }
                 }
+                if (Ship.HaveCollision(Asteroids[i])) 
+                {
+                    Asteroids[i].ResetPos(); 
+                }
+            }
+            for (int j = 0; j < Batteries.Count; j++)
+            {
+                Batteries[j].HaveCollision(Ship); 
+            }
         }
-        public static void Close(object sender, FormClosingEventArgs e)
+        private static void RemoveObjects()
         {
-            timer.Stop();
+            foreach(BaseObject obj in ToBeRemovedObjects)
+            {
+                if (obj is Bullet)
+                {
+                    Bullets.Remove((Bullet)obj);
+                }
+                else if (obj is Battery)
+                {
+                    Batteries.Remove((Battery)obj);
+                }
+                else throw new Exception("Unexpected object to be deleted " + obj.ToString());
+            }
+            ToBeRemovedObjects.Clear();
         }
+        #endregion
     }
 }

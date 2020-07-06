@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Drawing;
+using AsteroidGame.UtilityClasses;
 
 namespace AsteroidGame
 {
@@ -32,7 +33,7 @@ namespace AsteroidGame
         #region Public Methods
         public abstract void Draw();
         public abstract void Update();
-        public bool HaveCollision(ICollidable obj)
+        public virtual bool HaveCollision(ICollidable obj)
         {
             return this.ObjectFrame.IntersectsWith(obj.ObjectFrame);
         }

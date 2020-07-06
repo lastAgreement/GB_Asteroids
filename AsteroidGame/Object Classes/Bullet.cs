@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Drawing;
+using AsteroidGame.UtilityClasses;
 
 namespace AsteroidGame
 {
     class Bullet: BaseObject
     {
+        public event GameEventHandler<GameObjectEventArgs> BulletSpent;
         public Bullet(Point pos, Point dir, Size size) : base(pos, dir, size)
         {
             Size = new Size(10, 4);
@@ -18,14 +20,13 @@ namespace AsteroidGame
         {
             Pos.X = Pos.X + Dir.X;
             Pos.Y = Pos.Y + Dir.Y;
-            if (Pos.X < 0) Dir.X = -Dir.X;
-            if (Pos.X > Game.Width) Dir.X = -Dir.X;
-            if (Pos.Y < 0) Dir.Y = -Dir.Y;
-            if (Pos.Y > Game.Height) Dir.Y = -Dir.Y;
+            if (Pos.X < 0 || Pos.X > Game.Width || Pos.Y < 0 || Pos.Y > Game.Height) OnBulletSpent(new GameObjectEventArgs(GameObjectEventArgsType.FLEW_AWAY));
         }
-        public override void ResetPos()
+        public override bool HaveCollision(ICollidable obj)
         {
-            Pos = new Point(0, GlobalRandom.Next(0, Game.Height));
+            bool haveCollision = base.HaveCollision(obj);
+            if (haveCollision && obj is Asteroid) OnBulletSpent(new GameObjectEventArgs(GameObjectEventArgsType.BULLET_COLLIEDED_WITH_ASTEROID));
+            return haveCollision;
         }
         protected override void GetRandomValues()
         {
@@ -33,6 +34,10 @@ namespace AsteroidGame
             Pos = new Point(0, GlobalRandom.Next(0, Game.Height));
             Dir = new Point(speed, 0);
             Size = new Size(10, 4);
+        }
+        protected virtual void OnBulletSpent(GameObjectEventArgs e)
+        {
+            BulletSpent?.Invoke(this, e);
         }
     }
 }
