@@ -60,58 +60,36 @@ namespace AsteroidGame.UtilityClasses
         }
         public static void WriteScoreToFile(int Score)
         {
-            bool needRewrite = false;
-            Dictionary<string, int> ScoreTable = ReadScoreFromFile();
+            List<Tuple<string, int>> ScoreTable = ReadScoreFromFile(); 
+            Tuple<string, int> minScore = ScoreTable.Aggregate((x, y) => x.Item2 < y.Item2 ? x : y);
 
-            if (ScoreTable.Count < 5)
+            if (ScoreTable.Count > 5 && minScore.Item2 > Score) return;
+
+            string PlayerName = AskPlayerName();
+            ScoreTable.Add(new Tuple<string, int>(PlayerName, Score));
+
+            if (minScore.Item2 < Score) { ScoreTable.Remove(minScore); }
+
+            using (StreamWriter sw = File.CreateText(scoreFilePath))
             {
-                string PlayerName = AskPlayerName();
-                if (ScoreTable.ContainsKey(PlayerName) && Score > ScoreTable[PlayerName])
+                foreach(Tuple<string, int> score in ScoreTable)
                 {
-                    ScoreTable[PlayerName] = Score;
-                    needRewrite = true;
-                }
-                else if (!ScoreTable.ContainsKey(PlayerName))
-                {
-                    ScoreTable.Add(PlayerName, Score);
-                    needRewrite = true;
-                }
-            }
-            else if (ScoreTable.Values.Min() < Score)
-            {
-                string PlayerName = AskPlayerName();
-                if (ScoreTable.ContainsKey(PlayerName))
-                {
-                    ScoreTable[PlayerName] = Score;
-                    needRewrite = true;
-                }
-                else 
-                {
-                    string key = ScoreTable.Aggregate((x, y) => x.Value < y.Value ? x : y).Key;
-                    ScoreTable.Remove(key);
-                    ScoreTable.Add(PlayerName, Score);
-                    needRewrite = true;
-                }
-            }
-            if (needRewrite) using (StreamWriter sw = File.CreateText(scoreFilePath))
-            {
-                foreach(KeyValuePair<string, int> score in ScoreTable)
-                {
-                    sw.Write(score.Value.ToString() + "\t");
-                    sw.Write(score.Key + "\n");
+                    sw.Write(score.Item2.ToString() + "\t");
+                    sw.Write(score.Item1 + "\n");
                 }
             }
         }
-        public static Dictionary<string,int> ReadScoreFromFile()
+        public static List<Tuple<string, int>> ReadScoreFromFile()
         {
-            Dictionary<string, int> ScoreTable = new Dictionary<string, int>();
+            List<Tuple<string, int>> ScoreTable = new List<Tuple<string, int>>();
             using (StreamReader sr = new StreamReader(scoreFilePath))
             {
                 string line;
                 while ((line = sr.ReadLine()) != null)
                 {
                     string[] parts = line.Split('\t');
-                    ScoreTable.Add(parts[1], int.Parse(parts[0]));
+                    ScoreTable.Add(
+                        new Tuple<string, int>(parts[1], int.Parse(parts[0])));
                 }
             }
             return ScoreTable;
@@ -126,7 +104,7 @@ namespace AsteroidGame.UtilityClasses
                 result = dialogForm.Text;
             }
             dialogForm.Dispose();
-            if (!String.IsNullOrEmpty(result)) result = "unknown player";
+            if (String.IsNullOrEmpty(result)) result = "unknown player";
             return result;
         }
     }

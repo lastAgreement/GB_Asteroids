@@ -63,10 +63,11 @@ namespace AsteroidGame
         private void ScoreButton_Click(object sender, EventArgs e)
         {
             ListBox.Items.Clear();
-            Dictionary<string, int> ScoreTable = LogUtils.ReadScoreFromFile();
-            foreach (KeyValuePair<string, int> score in ScoreTable)
+            List<Tuple<string, int>> ScoreTable = LogUtils.ReadScoreFromFile();
+            ScoreTable.Sort((x, y) => y.Item2 - x.Item2);
+            foreach (Tuple<string, int> score in ScoreTable)
             {
-                ListBox.Items.Add(score.Value + "\t" + score.Key) ;
+                ListBox.Items.Add(score.Item2 + "\t" + score.Item1) ;
             }
             ListBox.Visible = true;
         }
