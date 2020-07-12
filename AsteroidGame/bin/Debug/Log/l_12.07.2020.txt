@@ -1,0 +1,2710 @@
+
+=====log 12.07.2020 14:25:01=====
+
+=====log 12.07.2020 14:26:09=====
+
+=====log 12.07.2020 14:27:25=====
+
+=====log 12.07.2020 14:27:45=====
+12.07.2020 14:27:45		GameInitialized	
+12.07.2020 14:27:45	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 14:27:50	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:50	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:50	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:50	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 14:27:50	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 14:27:51	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:51	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:51	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:52	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:52	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:52	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:53	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:53	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:53	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:53	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 14:27:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 14:27:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 14:27:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 14:27:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 14:27:57	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 14:27:57		Score	5
+12.07.2020 14:27:57	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 14:27:57		Score	10
+12.07.2020 14:27:59	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 14:27:59		Score	15
+12.07.2020 14:28:00	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 14:28:00		Score	20
+12.07.2020 14:28:01	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 14:28:01		Score	20
+12.07.2020 14:28:02	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 14:28:02		Score	20
+12.07.2020 14:28:02	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 14:28:02		Score	20
+12.07.2020 14:28:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 14:28:03		Score	20
+12.07.2020 14:28:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 14:28:03		Score	20
+12.07.2020 14:28:04	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 14:28:04		Score	20
+12.07.2020 14:28:04	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 14:28:04		Score	20
+12.07.2020 14:28:04	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 14:28:04		Score	20
+12.07.2020 14:28:04	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 14:28:04		Score	20
+12.07.2020 14:28:05	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 14:28:05		Score	20
+12.07.2020 14:28:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 14:28:06	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 15:11:45=====
+12.07.2020 15:11:45		GameInitialized	
+12.07.2020 15:11:45	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 15:12:16	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 15:12:16		Score	0
+
+=====log 12.07.2020 15:14:01=====
+12.07.2020 15:14:01		GameInitialized	
+12.07.2020 15:14:01	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 15:14:01	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	Return
+12.07.2020 15:14:03	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	D
+12.07.2020 15:14:03	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	D
+12.07.2020 15:14:04	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:14:04	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:14:04	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	A
+12.07.2020 15:14:05	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:14:05	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:14:05	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	F
+12.07.2020 15:14:06	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	F
+12.07.2020 15:14:06	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	F
+12.07.2020 15:14:07	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:14:07	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	A
+12.07.2020 15:14:07	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	A
+12.07.2020 15:14:08	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:14:09	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:14:09	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	D
+12.07.2020 15:14:10	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:14:12	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	Escape
+12.07.2020 15:14:12	AsteroidGame.Forms.GameForm, Text: GameForm	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 15:51:58=====
+12.07.2020 15:51:58		GameInitialized	
+12.07.2020 15:51:58	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 15:51:59	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	D
+12.07.2020 15:52:00	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:52:01	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	F
+12.07.2020 15:52:01	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	F
+12.07.2020 15:52:02	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	F
+12.07.2020 15:52:02	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:52:03	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	A
+12.07.2020 15:52:03	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:52:05	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	Escape
+12.07.2020 15:52:05	AsteroidGame.Forms.GameForm, Text: GameForm	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 15:55:13=====
+12.07.2020 15:55:13		GameInitialized	
+12.07.2020 15:55:13	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 15:55:17	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	D
+12.07.2020 15:55:17	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	D
+12.07.2020 15:55:18	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:55:19	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	D
+12.07.2020 15:55:20	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:55:20	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:55:20	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:55:21	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:55:23	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	D
+12.07.2020 15:55:24	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:55:24	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:55:25	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:55:26	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 15:55:26		Score	0
+12.07.2020 15:55:27	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:55:28	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:55:28	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 15:55:28		Score	0
+12.07.2020 15:55:29	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:55:29	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 15:55:29		Score	0
+12.07.2020 15:55:29	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:55:30	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:55:30	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:55:30	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:55:31	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:55:31	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	S
+12.07.2020 15:55:32	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 15:55:32		Score	0
+12.07.2020 15:55:32		GameOver	
+12.07.2020 15:55:32	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:55:32	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+
+=====log 12.07.2020 15:57:45=====
+12.07.2020 15:57:45		GameInitialized	
+12.07.2020 15:57:45	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 15:57:46	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	D
+12.07.2020 15:57:46	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	W
+12.07.2020 15:57:48	AsteroidGame.Forms.GameForm, Text: GameForm	Form_KeyUp	Escape
+12.07.2020 15:57:48	AsteroidGame.Forms.GameForm, Text: GameForm	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 15:58:17=====
+12.07.2020 15:58:17		GameInitialized	
+12.07.2020 15:58:17	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 15:58:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 15:58:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 15:58:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 15:58:19	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 16:10:44=====
+12.07.2020 16:10:44		GameInitialized	
+12.07.2020 16:10:44	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 16:10:44	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 16:10:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:10:47	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:10:58	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:10:58		Score	0
+
+=====log 12.07.2020 16:11:09=====
+12.07.2020 16:11:09		GameInitialized	
+12.07.2020 16:11:09	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 16:11:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 16:11:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 16:11:10	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 16:12:31=====
+12.07.2020 16:12:31		GameInitialized	
+12.07.2020 16:12:31	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 16:12:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 16:12:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 16:12:32	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 16:13:21=====
+12.07.2020 16:13:21		GameInitialized	
+12.07.2020 16:13:21	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 16:13:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 16:13:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 16:13:22	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 16:13:59=====
+12.07.2020 16:13:59		GameInitialized	
+12.07.2020 16:13:59	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 16:13:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 16:14:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 16:14:00	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 16:15:42=====
+12.07.2020 16:15:42		GameInitialized	
+12.07.2020 16:15:42	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 16:15:42	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 16:15:43	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 16:15:43	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 16:19:02=====
+12.07.2020 16:19:02		GameInitialized	
+12.07.2020 16:19:02	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 16:19:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 16:19:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 16:19:03	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 16:19:34		GameInitialized	
+12.07.2020 16:19:34	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 16:19:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 16:19:36	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 16:21:05=====
+12.07.2020 16:21:05		GameInitialized	
+12.07.2020 16:21:05	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 16:21:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:21:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:21:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:21:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:16	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:16		Score	5
+12.07.2020 16:21:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:16	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:16		Score	10
+12.07.2020 16:21:17	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:17		Score	15
+12.07.2020 16:21:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:17	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:17		Score	20
+12.07.2020 16:21:17	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:17		Score	25
+12.07.2020 16:21:18	AsteroidGame.Battery	Battery_BatterySpent	SHIP_COLLIEDED_WITH_BATTERY
+12.07.2020 16:21:18	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:18		Score	30
+12.07.2020 16:21:18	AsteroidGame.Battery	Battery_BatterySpent	SHIP_COLLIEDED_WITH_BATTERY
+12.07.2020 16:21:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:19		Score	30
+12.07.2020 16:21:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:19		Score	30
+12.07.2020 16:21:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:19		Score	30
+12.07.2020 16:21:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:19		Score	30
+12.07.2020 16:21:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:19		Score	30
+12.07.2020 16:21:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:19		Score	30
+12.07.2020 16:21:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:19		Score	30
+12.07.2020 16:21:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:19		Score	30
+12.07.2020 16:21:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:19		Score	30
+12.07.2020 16:21:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:19		Score	30
+12.07.2020 16:21:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:20		Score	30
+12.07.2020 16:21:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:20		Score	30
+12.07.2020 16:21:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:20		Score	30
+12.07.2020 16:21:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:20		Score	30
+12.07.2020 16:21:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:20		Score	30
+12.07.2020 16:21:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:21	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:21		Score	30
+12.07.2020 16:21:21	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:21		Score	30
+12.07.2020 16:21:21	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:21		Score	30
+12.07.2020 16:21:21	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:21		Score	30
+12.07.2020 16:21:21	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:21		Score	30
+12.07.2020 16:21:21	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:21		Score	30
+12.07.2020 16:21:21	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:21:21		Score	30
+12.07.2020 16:21:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 16:21:23	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:23		Score	29
+12.07.2020 16:21:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 16:21:23	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:23		Score	28
+12.07.2020 16:21:23	AsteroidGame.Battery	Battery_BatterySpent	SHIP_COLLIEDED_WITH_BATTERY
+12.07.2020 16:21:24	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:24		Score	27
+12.07.2020 16:21:24	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:24		Score	26
+12.07.2020 16:21:26	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:26		Score	25
+12.07.2020 16:21:27	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:27		Score	24
+12.07.2020 16:21:27	AsteroidGame.Battery	Battery_BatterySpent	SHIP_COLLIEDED_WITH_BATTERY
+12.07.2020 16:21:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 16:21:28	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:28		Score	23
+12.07.2020 16:21:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:21:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:21:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:21:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 16:21:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 16:21:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 16:21:35	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:35		Score	22
+12.07.2020 16:21:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:21:36	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:36		Score	21
+12.07.2020 16:21:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:21:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:21:39	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:21:39		Score	20
+12.07.2020 16:21:42		GameOver	
+12.07.2020 16:21:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 16:21:45	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 16:38:01=====
+12.07.2020 16:38:01		GameInitialized	
+12.07.2020 16:38:01	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 16:38:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 16:38:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 16:38:02	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 16:38:05		GameInitialized	
+12.07.2020 16:38:05	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 16:38:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:38:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:38:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:38:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:38:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:38:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:38:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:38:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:38:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:38:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:38:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 16:38:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:38:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 16:38:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 16:38:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 16:38:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:38:16	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:38:16		Score	5
+12.07.2020 16:38:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:38:16	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:38:16		Score	10
+12.07.2020 16:38:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 16:38:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 16:38:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:17		Score	10
+12.07.2020 16:38:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	10
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	10
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	10
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	10
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	10
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:38:18		Score	15
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	15
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	15
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	15
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	15
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	15
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	15
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	15
+12.07.2020 16:38:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:18		Score	15
+12.07.2020 16:38:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:19		Score	15
+12.07.2020 16:38:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:19		Score	15
+12.07.2020 16:38:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:38:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:19		Score	15
+12.07.2020 16:38:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:19		Score	15
+12.07.2020 16:38:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:19		Score	15
+12.07.2020 16:38:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 16:38:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:19		Score	15
+12.07.2020 16:38:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:20		Score	15
+12.07.2020 16:38:20	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 16:38:20		Score	20
+12.07.2020 16:38:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 16:38:20		Score	20
+12.07.2020 16:38:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 16:38:21	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 19:12:53=====
+12.07.2020 19:12:55		GameInitialized	
+12.07.2020 19:12:55	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:12:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:12:59	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 19:13:16		GameInitialized	
+12.07.2020 19:13:16	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:13:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:29	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:13:29		Score	5
+12.07.2020 19:13:30	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:13:30		Score	10
+12.07.2020 19:13:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:32		Score	10
+12.07.2020 19:13:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:32		Score	10
+12.07.2020 19:13:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:32		Score	10
+12.07.2020 19:13:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:32		Score	10
+12.07.2020 19:13:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:32		Score	10
+12.07.2020 19:13:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:33		Score	10
+12.07.2020 19:13:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:33	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:13:33		Score	15
+12.07.2020 19:13:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:33		Score	15
+12.07.2020 19:13:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:33		Score	15
+12.07.2020 19:13:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:33		Score	15
+12.07.2020 19:13:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:34		Score	15
+12.07.2020 19:13:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:34		Score	15
+12.07.2020 19:13:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:34		Score	15
+12.07.2020 19:13:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:35		Score	15
+12.07.2020 19:13:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:35		Score	15
+12.07.2020 19:13:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:35		Score	15
+12.07.2020 19:13:35	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:13:35		Score	20
+12.07.2020 19:13:38	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:13:38		Score	25
+12.07.2020 19:13:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:40	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:40	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:40	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:40	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:13:41	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:13:41		Score	30
+12.07.2020 19:13:42	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:13:42		Score	35
+12.07.2020 19:13:43	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:43		Score	35
+12.07.2020 19:13:43	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:13:43		Score	35
+12.07.2020 19:13:43	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:13:43	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 19:14:16=====
+12.07.2020 19:14:16		GameInitialized	
+12.07.2020 19:14:16	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:14:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:14:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:14:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:14:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:14:28	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:28		Score	0
+12.07.2020 19:14:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:14:28	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:28		Score	0
+12.07.2020 19:14:29	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:29		Score	0
+12.07.2020 19:14:29	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:14:29		Score	5
+12.07.2020 19:14:29	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:14:29		Score	10
+12.07.2020 19:14:30	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:30		Score	10
+12.07.2020 19:14:30	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:30		Score	10
+12.07.2020 19:14:30	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:30		Score	10
+12.07.2020 19:14:31	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:31		Score	10
+12.07.2020 19:14:31	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:14:31		Score	15
+12.07.2020 19:14:32	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:14:32		Score	20
+12.07.2020 19:14:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:32		Score	20
+12.07.2020 19:14:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:33		Score	20
+12.07.2020 19:14:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:33		Score	20
+12.07.2020 19:14:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:33		Score	20
+12.07.2020 19:14:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:33		Score	20
+12.07.2020 19:14:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:34		Score	20
+12.07.2020 19:14:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:34		Score	20
+12.07.2020 19:14:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:34		Score	20
+12.07.2020 19:14:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:35		Score	20
+12.07.2020 19:14:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:35		Score	20
+12.07.2020 19:14:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:35		Score	20
+12.07.2020 19:14:35	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:14:35		Score	25
+12.07.2020 19:14:35	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:14:35		Score	30
+12.07.2020 19:14:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:36		Score	30
+12.07.2020 19:14:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:36		Score	30
+12.07.2020 19:14:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:36		Score	30
+12.07.2020 19:14:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:36		Score	30
+12.07.2020 19:14:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:14:37		Score	30
+12.07.2020 19:14:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:14:38	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 19:15:40=====
+12.07.2020 19:15:40		GameInitialized	
+12.07.2020 19:15:40	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:15:41	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:15:41	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 19:16:01=====
+12.07.2020 19:16:01		GameInitialized	
+12.07.2020 19:16:01	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:16:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 19:16:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:16:03	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 19:19:17		GameInitialized	
+12.07.2020 19:19:17	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:19:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:27	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:19:27		Score	5
+12.07.2020 19:19:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:29	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:19:29		Score	10
+12.07.2020 19:19:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:30	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:30		Score	10
+12.07.2020 19:19:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:30	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:30		Score	10
+12.07.2020 19:19:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:30	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:30		Score	10
+12.07.2020 19:19:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:31	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:31		Score	10
+12.07.2020 19:19:31	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:31		Score	10
+12.07.2020 19:19:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:31	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:31		Score	10
+12.07.2020 19:19:31	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:31		Score	10
+12.07.2020 19:19:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:32		Score	10
+12.07.2020 19:19:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:32		Score	10
+12.07.2020 19:19:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:32		Score	10
+12.07.2020 19:19:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:19:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:32		Score	10
+12.07.2020 19:19:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:19:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:33		Score	10
+12.07.2020 19:19:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:19:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:33		Score	10
+12.07.2020 19:19:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:33		Score	10
+12.07.2020 19:19:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:33		Score	10
+12.07.2020 19:19:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:33		Score	10
+12.07.2020 19:19:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:34		Score	10
+12.07.2020 19:19:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:34		Score	10
+12.07.2020 19:19:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:34		Score	10
+12.07.2020 19:19:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:34		Score	10
+12.07.2020 19:19:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:35		Score	10
+12.07.2020 19:19:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:35		Score	10
+12.07.2020 19:19:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:35		Score	10
+12.07.2020 19:19:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:19:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:35		Score	10
+12.07.2020 19:19:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:35		Score	10
+12.07.2020 19:19:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:19:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:36		Score	10
+12.07.2020 19:19:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:19:36	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:19:36		Score	15
+12.07.2020 19:19:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:36		Score	15
+12.07.2020 19:19:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:19:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:36		Score	15
+12.07.2020 19:19:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:36		Score	15
+12.07.2020 19:19:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:37		Score	15
+12.07.2020 19:19:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:37		Score	15
+12.07.2020 19:19:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:37		Score	15
+12.07.2020 19:19:37	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:19:37		Score	20
+12.07.2020 19:19:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:37		Score	20
+12.07.2020 19:19:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:19:38	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:38		Score	20
+12.07.2020 19:19:38	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:38		Score	20
+12.07.2020 19:19:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:19:38	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:38		Score	20
+12.07.2020 19:19:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:39	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:39		Score	20
+12.07.2020 19:19:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:39	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:19:39		Score	25
+12.07.2020 19:19:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:19:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:19:40	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:40		Score	25
+12.07.2020 19:19:41	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:41		Score	25
+12.07.2020 19:19:41	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:19:41	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:41		Score	25
+12.07.2020 19:19:41	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:41		Score	25
+12.07.2020 19:19:41	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:19:41		Score	30
+12.07.2020 19:19:41	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:41		Score	30
+12.07.2020 19:19:41	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:41		Score	30
+12.07.2020 19:19:42	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:42		Score	30
+12.07.2020 19:19:42	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:19:42		Score	35
+12.07.2020 19:19:43	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:43		Score	35
+12.07.2020 19:19:43	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:43		Score	35
+12.07.2020 19:19:44	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:19:44		Score	40
+12.07.2020 19:19:44	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:44		Score	40
+12.07.2020 19:19:44	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:19:44		Score	45
+12.07.2020 19:19:45	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:45		Score	45
+12.07.2020 19:19:45	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:45		Score	45
+12.07.2020 19:19:45	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:45		Score	45
+12.07.2020 19:19:45	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:45		Score	45
+12.07.2020 19:19:45	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:19:45		Score	50
+12.07.2020 19:19:46	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:19:46		Score	50
+12.07.2020 19:19:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:19:46	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 19:22:17=====
+12.07.2020 19:22:17		GameInitialized	
+12.07.2020 19:22:17	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:22:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:22:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:22:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:22:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:22:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:22:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:22:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:22:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:22:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:29	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:29		Score	5
+12.07.2020 19:22:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:22:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:31	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:31		Score	10
+12.07.2020 19:22:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:32		Score	10
+12.07.2020 19:22:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:32		Score	10
+12.07.2020 19:22:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:32		Score	10
+12.07.2020 19:22:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:32		Score	10
+12.07.2020 19:22:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:33		Score	10
+12.07.2020 19:22:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:33		Score	10
+12.07.2020 19:22:33	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:33		Score	15
+12.07.2020 19:22:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:33		Score	15
+12.07.2020 19:22:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:33		Score	15
+12.07.2020 19:22:33	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:33		Score	20
+12.07.2020 19:22:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:34		Score	20
+12.07.2020 19:22:34	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:34		Score	25
+12.07.2020 19:22:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:34		Score	25
+12.07.2020 19:22:34	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:34		Score	30
+12.07.2020 19:22:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:34		Score	30
+12.07.2020 19:22:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:22:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:34		Score	30
+12.07.2020 19:22:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:35		Score	30
+12.07.2020 19:22:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:35		Score	30
+12.07.2020 19:22:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:22:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:35		Score	30
+12.07.2020 19:22:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:22:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:35		Score	30
+12.07.2020 19:22:35	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:35		Score	35
+12.07.2020 19:22:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:35		Score	35
+12.07.2020 19:22:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:35		Score	35
+12.07.2020 19:22:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:22:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:36		Score	35
+12.07.2020 19:22:36	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:36		Score	40
+12.07.2020 19:22:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:36		Score	40
+12.07.2020 19:22:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:22:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:22:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:36		Score	40
+12.07.2020 19:22:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:36		Score	40
+12.07.2020 19:22:36	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:36		Score	45
+12.07.2020 19:22:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:36		Score	45
+12.07.2020 19:22:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:37		Score	45
+12.07.2020 19:22:37	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:37		Score	50
+12.07.2020 19:22:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:37		Score	50
+12.07.2020 19:22:37	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:37		Score	55
+12.07.2020 19:22:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:22:37		Score	55
+12.07.2020 19:22:37	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:22:37		Score	60
+12.07.2020 19:22:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:22:37	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 19:23:16		GameInitialized	
+12.07.2020 19:23:16	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:23:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:23:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:23:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:23:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:23:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:23:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:29	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:23:29		Score	5
+12.07.2020 19:23:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:29	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:29		Score	5
+12.07.2020 19:23:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:29	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:29		Score	5
+12.07.2020 19:23:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:29	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:29		Score	5
+12.07.2020 19:23:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:30	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:30		Score	5
+12.07.2020 19:23:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:30	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:30		Score	5
+12.07.2020 19:23:30	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:31	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:31		Score	5
+12.07.2020 19:23:31	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:31		Score	5
+12.07.2020 19:23:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:31	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:31		Score	5
+12.07.2020 19:23:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:31	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:31		Score	5
+12.07.2020 19:23:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:32		Score	5
+12.07.2020 19:23:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:32		Score	5
+12.07.2020 19:23:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:32		Score	5
+12.07.2020 19:23:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:32	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:23:32		Score	10
+12.07.2020 19:23:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:33		Score	10
+12.07.2020 19:23:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:33		Score	10
+12.07.2020 19:23:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:33		Score	10
+12.07.2020 19:23:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:33		Score	10
+12.07.2020 19:23:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:34		Score	10
+12.07.2020 19:23:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:34		Score	10
+12.07.2020 19:23:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:23:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:23:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:35		Score	10
+12.07.2020 19:23:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:35		Score	10
+12.07.2020 19:23:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:35		Score	10
+12.07.2020 19:23:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:35		Score	10
+12.07.2020 19:23:35	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:23:35		Score	15
+12.07.2020 19:23:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:36		Score	15
+12.07.2020 19:23:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:36		Score	15
+12.07.2020 19:23:36	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:23:36		Score	20
+12.07.2020 19:23:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:36		Score	20
+12.07.2020 19:23:36	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:36		Score	20
+12.07.2020 19:23:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:37		Score	20
+12.07.2020 19:23:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:37		Score	20
+12.07.2020 19:23:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:37		Score	20
+12.07.2020 19:23:37	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:37		Score	20
+12.07.2020 19:23:38	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:38		Score	20
+12.07.2020 19:23:38	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:23:38		Score	25
+12.07.2020 19:23:38	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:38		Score	25
+12.07.2020 19:23:38	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:23:38		Score	30
+12.07.2020 19:23:38	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:38		Score	30
+12.07.2020 19:23:39	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:23:39		Score	35
+12.07.2020 19:23:39	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:23:39		Score	35
+12.07.2020 19:23:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:23:39	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 19:24:43		GameInitialized	
+12.07.2020 19:24:43	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:24:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:24:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:24:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:24:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:24:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:24:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:24:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:24:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:24:47	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:24:47	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:24:47	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:24:48	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:24:48	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 19:25:01		GameInitialized	
+12.07.2020 19:25:01	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:25:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:25:04	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 19:27:48=====
+
+=====log 12.07.2020 19:31:24=====
+
+=====log 12.07.2020 19:33:56=====
+
+=====log 12.07.2020 19:35:34=====
+12.07.2020 19:35:56		GameInitialized	
+12.07.2020 19:35:56	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:35:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:35:59	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 19:36:01		GameInitialized	
+12.07.2020 19:36:01	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:36:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:36:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:36:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:36:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:36:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:36:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:36:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:36:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:36:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:36:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:36:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:36:11	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:36:11		Score	5
+12.07.2020 19:36:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:36:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:36:12	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:36:12		Score	10
+12.07.2020 19:36:12	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:36:12		Score	15
+12.07.2020 19:36:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:36:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:36:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:13		Score	15
+12.07.2020 19:36:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:36:14	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:14		Score	15
+12.07.2020 19:36:14	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:36:14		Score	20
+12.07.2020 19:36:14	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:36:14		Score	25
+12.07.2020 19:36:14	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:36:14		Score	30
+12.07.2020 19:36:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:36:15	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:36:15		Score	35
+12.07.2020 19:36:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:15		Score	35
+12.07.2020 19:36:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:15		Score	35
+12.07.2020 19:36:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:15		Score	35
+12.07.2020 19:36:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:36:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:15		Score	35
+12.07.2020 19:36:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:15		Score	35
+12.07.2020 19:36:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:15		Score	35
+12.07.2020 19:36:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:16		Score	35
+12.07.2020 19:36:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:36:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:16		Score	35
+12.07.2020 19:36:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:16		Score	35
+12.07.2020 19:36:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:17		Score	35
+12.07.2020 19:36:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:17		Score	35
+12.07.2020 19:36:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:36:18		Score	35
+12.07.2020 19:36:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:36:18	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 19:46:00=====
+12.07.2020 19:46:00		GameInitialized	
+12.07.2020 19:46:00	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:46:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 19:46:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:46:01	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 19:46:02		GameInitialized	
+12.07.2020 19:46:02	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:46:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 19:46:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:15		Score	0
+12.07.2020 19:46:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:15		Score	0
+12.07.2020 19:46:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:15		Score	0
+12.07.2020 19:46:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:46:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:15		Score	0
+12.07.2020 19:46:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:15		Score	0
+12.07.2020 19:46:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:16		Score	0
+12.07.2020 19:46:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:16		Score	0
+12.07.2020 19:46:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:16		Score	0
+12.07.2020 19:46:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:16		Score	0
+12.07.2020 19:46:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:17		Score	0
+12.07.2020 19:46:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:17		Score	0
+12.07.2020 19:46:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:46:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:17		Score	0
+12.07.2020 19:46:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:18		Score	0
+12.07.2020 19:46:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:18		Score	0
+12.07.2020 19:46:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:18		Score	0
+12.07.2020 19:46:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:18		Score	0
+12.07.2020 19:46:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:46:19		Score	0
+12.07.2020 19:46:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:46:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:46:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:46:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:21	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:46:21		Score	5
+12.07.2020 19:46:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:46:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:46:23	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 19:46:30		GameInitialized	
+12.07.2020 19:46:30	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:46:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:46:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:46:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:46:40	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:46:40		Score	5
+12.07.2020 19:46:40	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:46:40		Score	10
+12.07.2020 19:46:42	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:46:42	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 19:47:59		GameInitialized	
+12.07.2020 19:47:59	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:48:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:48:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:48:09	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:48:09		Score	5
+12.07.2020 19:48:10	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:48:10		Score	10
+12.07.2020 19:48:11	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:48:11		Score	15
+12.07.2020 19:48:12	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:48:12		Score	15
+12.07.2020 19:48:12	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:48:12		Score	15
+12.07.2020 19:48:12	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:48:12		Score	20
+12.07.2020 19:48:12	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:48:12		Score	20
+12.07.2020 19:48:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:48:12	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 19:48:51=====
+12.07.2020 19:48:52		GameInitialized	
+12.07.2020 19:48:53	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:48:53	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:53	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:48:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:48:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:49:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:49:05	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:05		Score	0
+12.07.2020 19:49:05	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:49:05		Score	5
+12.07.2020 19:49:05	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:05		Score	5
+12.07.2020 19:49:05	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:05		Score	5
+12.07.2020 19:49:05	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:05		Score	5
+12.07.2020 19:49:05	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:05		Score	5
+12.07.2020 19:49:06	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:06		Score	5
+12.07.2020 19:49:06	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:06		Score	5
+12.07.2020 19:49:06	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:06		Score	5
+12.07.2020 19:49:06	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:49:06		Score	10
+12.07.2020 19:49:07	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:07		Score	10
+12.07.2020 19:49:07	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:07		Score	10
+12.07.2020 19:49:07	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:07		Score	10
+12.07.2020 19:49:07	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:07		Score	10
+12.07.2020 19:49:07	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:07		Score	10
+12.07.2020 19:49:08	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:08		Score	10
+12.07.2020 19:49:08	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:49:08		Score	15
+12.07.2020 19:49:08	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:08		Score	15
+12.07.2020 19:49:08	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:08		Score	15
+12.07.2020 19:49:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:09		Score	15
+12.07.2020 19:49:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:09		Score	15
+12.07.2020 19:49:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:09		Score	15
+12.07.2020 19:49:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:49:09		Score	15
+12.07.2020 19:49:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:49:10	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 19:51:19=====
+12.07.2020 19:51:19		GameInitialized	
+12.07.2020 19:51:19	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:51:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:51:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:51:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:51:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:51:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:51:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:51:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:51:28	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:51:28		Score	5
+12.07.2020 19:51:30	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:51:30		Score	10
+12.07.2020 19:51:31	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:31		Score	10
+12.07.2020 19:51:31	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:31		Score	10
+12.07.2020 19:51:31	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:51:31		Score	15
+12.07.2020 19:51:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:32		Score	15
+12.07.2020 19:51:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:32		Score	15
+12.07.2020 19:51:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:32		Score	15
+12.07.2020 19:51:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:33		Score	15
+12.07.2020 19:51:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:33		Score	15
+12.07.2020 19:51:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:33		Score	15
+12.07.2020 19:51:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:33		Score	15
+12.07.2020 19:51:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:33		Score	15
+12.07.2020 19:51:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:34		Score	15
+12.07.2020 19:51:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:34		Score	15
+12.07.2020 19:51:34	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:51:34		Score	20
+12.07.2020 19:51:34	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:51:34		Score	20
+12.07.2020 19:51:35	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:51:35		Score	25
+12.07.2020 19:51:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:51:36	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 19:52:33=====
+12.07.2020 19:52:33		GameInitialized	
+12.07.2020 19:52:33	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:52:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:34	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:52:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:52:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:35	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:36	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:52:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:37	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:52:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:52:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:40	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:40	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:40	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:41	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:41	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:41	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:41	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:42	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:42	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:42	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:43	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:52:43	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:43	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:43	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:44	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:44	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:44	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:44		Score	5
+12.07.2020 19:52:44	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:44		Score	10
+12.07.2020 19:52:44	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:44	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:45	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:45		Score	10
+12.07.2020 19:52:45	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:45		Score	15
+12.07.2020 19:52:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:46	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:46		Score	15
+12.07.2020 19:52:46	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:46		Score	20
+12.07.2020 19:52:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:46	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:46		Score	20
+12.07.2020 19:52:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:47	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:47		Score	20
+12.07.2020 19:52:47	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:52:47	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:47		Score	20
+12.07.2020 19:52:47	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:52:47	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:47		Score	25
+12.07.2020 19:52:47	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:47		Score	25
+12.07.2020 19:52:48	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:48		Score	30
+12.07.2020 19:52:48	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:52:48	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:52:48	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:52:48	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:52:49	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:49		Score	30
+12.07.2020 19:52:49	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:52:49	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:49		Score	30
+12.07.2020 19:52:49	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:52:49	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:52:50	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:50		Score	30
+12.07.2020 19:52:50	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:52:50	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:50		Score	30
+12.07.2020 19:52:50	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:50		Score	30
+12.07.2020 19:52:51	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:51		Score	30
+12.07.2020 19:52:51	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:51		Score	30
+12.07.2020 19:52:51	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:52:51	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:51		Score	35
+12.07.2020 19:52:51	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:51		Score	40
+12.07.2020 19:52:51	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:51		Score	40
+12.07.2020 19:52:51	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:51		Score	40
+12.07.2020 19:52:51	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:52:51	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:51		Score	45
+12.07.2020 19:52:52	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:52		Score	45
+12.07.2020 19:52:52	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:52		Score	50
+12.07.2020 19:52:52	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:52		Score	50
+12.07.2020 19:52:52	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:52		Score	50
+12.07.2020 19:52:52	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:52:52	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:52		Score	50
+12.07.2020 19:52:52	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:53		Score	55
+12.07.2020 19:52:53	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:53		Score	60
+12.07.2020 19:52:53	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:53		Score	60
+12.07.2020 19:52:53	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:52:53	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:53		Score	60
+12.07.2020 19:52:53	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:53		Score	65
+12.07.2020 19:52:54	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:54		Score	70
+12.07.2020 19:52:55	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:55		Score	70
+12.07.2020 19:52:56	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:56		Score	70
+12.07.2020 19:52:56	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:56		Score	70
+12.07.2020 19:52:56	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:56		Score	70
+12.07.2020 19:52:56	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:56		Score	75
+12.07.2020 19:52:56	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:56		Score	80
+12.07.2020 19:52:57	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:57		Score	80
+12.07.2020 19:52:57	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:57		Score	80
+12.07.2020 19:52:57	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:57		Score	85
+12.07.2020 19:52:57	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:57		Score	85
+12.07.2020 19:52:58	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:58		Score	85
+12.07.2020 19:52:58	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:52:58		Score	90
+12.07.2020 19:52:58	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:52:58		Score	90
+12.07.2020 19:52:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:52:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:53:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:53:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:53:00	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:53:00		Score	89
+12.07.2020 19:53:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:53:01	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:53:01		Score	88
+12.07.2020 19:53:01	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:53:01		Score	87
+12.07.2020 19:53:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:53:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:53:02	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:53:02		Score	86
+12.07.2020 19:53:14		GameOver	
+12.07.2020 19:53:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:53:28	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 19:54:48=====
+12.07.2020 19:54:48		GameInitialized	
+12.07.2020 19:54:48	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 19:54:49	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:54:50	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:54:50	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:54:52	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:54:53	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:53	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:53	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:54:53	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:54:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:54:59	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:54:59		Score	5
+12.07.2020 19:54:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:54:59	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:54:59		Score	10
+12.07.2020 19:55:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:55:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:55:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:55:02	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:02		Score	10
+12.07.2020 19:55:02	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:02		Score	10
+12.07.2020 19:55:02	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:55:02		Score	15
+12.07.2020 19:55:02	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:02		Score	15
+12.07.2020 19:55:02	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:02		Score	15
+12.07.2020 19:55:02	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:02		Score	15
+12.07.2020 19:55:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 19:55:02	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:02		Score	15
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	15
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	15
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	15
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	15
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	15
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	15
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	15
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	15
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	15
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	15
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:55:03		Score	20
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	20
+12.07.2020 19:55:03	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:03		Score	20
+12.07.2020 19:55:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:55:04	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:04		Score	20
+12.07.2020 19:55:04	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:04		Score	20
+12.07.2020 19:55:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:55:04	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:55:04		Score	19
+12.07.2020 19:55:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:55:05	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:55:05		Score	18
+12.07.2020 19:55:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:55:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:55:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:55:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:55:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:55:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:09		Score	18
+12.07.2020 19:55:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:55:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:09		Score	18
+12.07.2020 19:55:09	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:55:09		Score	17
+12.07.2020 19:55:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:55:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 19:55:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:09		Score	17
+12.07.2020 19:55:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:10	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:10		Score	17
+12.07.2020 19:55:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:10	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:10		Score	17
+12.07.2020 19:55:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:10	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:10		Score	17
+12.07.2020 19:55:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:11	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:11		Score	17
+12.07.2020 19:55:11	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:55:11		Score	22
+12.07.2020 19:55:11	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:11		Score	22
+12.07.2020 19:55:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:12	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:12		Score	22
+12.07.2020 19:55:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:13		Score	22
+12.07.2020 19:55:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:13	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:55:13		Score	27
+12.07.2020 19:55:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 19:55:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:13		Score	27
+12.07.2020 19:55:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:55:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:13		Score	27
+12.07.2020 19:55:14	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:55:14		Score	26
+12.07.2020 19:55:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 19:55:14	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:14		Score	26
+12.07.2020 19:55:14	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:14		Score	26
+12.07.2020 19:55:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 19:55:15		Score	26
+12.07.2020 19:55:15	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 19:55:15		Score	25
+12.07.2020 19:55:15		GameOver	
+12.07.2020 19:55:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 19:55:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 19:55:18	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 20:09:11=====
+12.07.2020 20:09:11		GameInitialized	
+12.07.2020 20:09:11	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 20:09:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	Return
+12.07.2020 20:09:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:09:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 20:09:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 20:09:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 20:09:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:09:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:09:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:09:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:22	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:22		Score	5
+12.07.2020 20:09:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:09:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:24	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:24		Score	5
+12.07.2020 20:09:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:24	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:24		Score	5
+12.07.2020 20:09:24	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:24		Score	10
+12.07.2020 20:09:24	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:24		Score	10
+12.07.2020 20:09:24	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:24		Score	10
+12.07.2020 20:09:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:09:25	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:25		Score	10
+12.07.2020 20:09:25	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:25		Score	15
+12.07.2020 20:09:25	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:25		Score	15
+12.07.2020 20:09:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:25	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:25		Score	15
+12.07.2020 20:09:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:25	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:25		Score	15
+12.07.2020 20:09:26	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:26		Score	15
+12.07.2020 20:09:26	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:26		Score	15
+12.07.2020 20:09:26	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:26		Score	14
+12.07.2020 20:09:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:09:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 20:09:26	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:26		Score	14
+12.07.2020 20:09:27	AsteroidGame.Battery	Battery_BatterySpent	SHIP_COLLIEDED_WITH_BATTERY
+12.07.2020 20:09:27	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:27		Score	14
+12.07.2020 20:09:27	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:09:27	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:27		Score	14
+12.07.2020 20:09:27	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:27		Score	14
+12.07.2020 20:09:27	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:27		Score	19
+12.07.2020 20:09:28	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:28		Score	19
+12.07.2020 20:09:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 20:09:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:09:28	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:28		Score	19
+12.07.2020 20:09:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:28	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:28		Score	19
+12.07.2020 20:09:28	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:28		Score	24
+12.07.2020 20:09:28	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:28		Score	29
+12.07.2020 20:09:28	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:28	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:28		Score	29
+12.07.2020 20:09:28	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:28		Score	29
+12.07.2020 20:09:28	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:28		Score	29
+12.07.2020 20:09:28	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:28		Score	34
+12.07.2020 20:09:28	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:29		Score	34
+12.07.2020 20:09:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:29	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:29		Score	34
+12.07.2020 20:09:29	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:29		Score	39
+12.07.2020 20:09:29	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:29		Score	39
+12.07.2020 20:09:29	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:29		Score	39
+12.07.2020 20:09:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:29	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:29		Score	39
+12.07.2020 20:09:29	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:29		Score	39
+12.07.2020 20:09:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:29	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:29		Score	44
+12.07.2020 20:09:29	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:29		Score	49
+12.07.2020 20:09:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:29	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:29		Score	49
+12.07.2020 20:09:29	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:30		Score	49
+12.07.2020 20:09:30	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:30		Score	54
+12.07.2020 20:09:30	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:30		Score	54
+12.07.2020 20:09:30	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:30		Score	54
+12.07.2020 20:09:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 20:09:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:32		Score	54
+12.07.2020 20:09:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:32	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:32		Score	54
+12.07.2020 20:09:32	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:32		Score	54
+12.07.2020 20:09:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:33		Score	54
+12.07.2020 20:09:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:09:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 20:09:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:33		Score	54
+12.07.2020 20:09:33	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:33		Score	54
+12.07.2020 20:09:33	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:09:34	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:34		Score	59
+12.07.2020 20:09:35	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:35		Score	64
+12.07.2020 20:09:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:35		Score	64
+12.07.2020 20:09:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:35		Score	64
+12.07.2020 20:09:35	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:09:36		Score	64
+12.07.2020 20:09:38	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:38		Score	63
+12.07.2020 20:09:39	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:39		Score	62
+12.07.2020 20:09:41	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:41		Score	61
+12.07.2020 20:09:42	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 20:09:42	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:42		Score	60
+12.07.2020 20:09:43	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:09:43		Score	59
+12.07.2020 20:09:43		GameOver	
+12.07.2020 20:09:44	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:09:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 20:09:46	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 20:09:52		GameInitialized	
+12.07.2020 20:09:52	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 20:09:54	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:55	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:09:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:56	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:09:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:09:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:10:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:10:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:10:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:10:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:06	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:06		Score	0
+12.07.2020 20:10:06	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:06		Score	5
+12.07.2020 20:10:06	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:06		Score	10
+12.07.2020 20:10:06	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:06		Score	10
+12.07.2020 20:10:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:06	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:06		Score	10
+12.07.2020 20:10:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:06	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:06		Score	10
+12.07.2020 20:10:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:07	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:07		Score	10
+12.07.2020 20:10:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:07	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:07		Score	10
+12.07.2020 20:10:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:07	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:07		Score	10
+12.07.2020 20:10:07	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:07		Score	15
+12.07.2020 20:10:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:07	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:07		Score	15
+12.07.2020 20:10:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:08	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:08		Score	15
+12.07.2020 20:10:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:08	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:08		Score	15
+12.07.2020 20:10:08	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:08		Score	20
+12.07.2020 20:10:08	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:08		Score	20
+12.07.2020 20:10:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:09		Score	20
+12.07.2020 20:10:09	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:09		Score	25
+12.07.2020 20:10:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:09		Score	25
+12.07.2020 20:10:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:09		Score	25
+12.07.2020 20:10:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:10	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:10		Score	25
+12.07.2020 20:10:10	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:10		Score	25
+12.07.2020 20:10:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:10	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:10		Score	25
+12.07.2020 20:10:10	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:10		Score	25
+12.07.2020 20:10:10	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:10		Score	30
+12.07.2020 20:10:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:10	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:10		Score	30
+12.07.2020 20:10:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:11	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:11		Score	30
+12.07.2020 20:10:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:10:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:10:11	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:11		Score	35
+12.07.2020 20:10:11	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:11		Score	35
+12.07.2020 20:10:12	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:12		Score	35
+12.07.2020 20:10:12	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:12		Score	40
+12.07.2020 20:10:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:10:12	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:12		Score	40
+12.07.2020 20:10:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:13		Score	40
+12.07.2020 20:10:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:13		Score	40
+12.07.2020 20:10:13	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:13		Score	45
+12.07.2020 20:10:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:13		Score	45
+12.07.2020 20:10:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:13		Score	45
+12.07.2020 20:10:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:10:14	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:14		Score	45
+12.07.2020 20:10:14	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:14		Score	50
+12.07.2020 20:10:14	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:14		Score	55
+12.07.2020 20:10:14	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:14		Score	55
+12.07.2020 20:10:15	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:15		Score	60
+12.07.2020 20:10:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:15		Score	60
+12.07.2020 20:10:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:15		Score	60
+12.07.2020 20:10:15	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:15		Score	65
+12.07.2020 20:10:15	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:15		Score	70
+12.07.2020 20:10:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:15		Score	70
+12.07.2020 20:10:16	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:16		Score	75
+12.07.2020 20:10:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:16		Score	75
+12.07.2020 20:10:16	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:16		Score	80
+12.07.2020 20:10:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:10:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:16		Score	80
+12.07.2020 20:10:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:10:16	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:16		Score	85
+12.07.2020 20:10:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:17		Score	85
+12.07.2020 20:10:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:10:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:18		Score	85
+12.07.2020 20:10:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:18		Score	85
+12.07.2020 20:10:18	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:18		Score	90
+12.07.2020 20:10:18	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:18		Score	95
+12.07.2020 20:10:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:18		Score	95
+12.07.2020 20:10:19	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:19		Score	100
+12.07.2020 20:10:19	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:19		Score	105
+12.07.2020 20:10:19	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:19		Score	110
+12.07.2020 20:10:19	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:19		Score	115
+12.07.2020 20:10:19	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:19		Score	120
+12.07.2020 20:10:20	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:20		Score	125
+12.07.2020 20:10:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:20		Score	125
+12.07.2020 20:10:21	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:21		Score	130
+12.07.2020 20:10:22	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:10:22		Score	135
+12.07.2020 20:10:22	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:10:22		Score	135
+12.07.2020 20:10:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 20:10:22	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 12.07.2020 20:22:00=====
+12.07.2020 20:22:36		GameInitialized	
+12.07.2020 20:22:36	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 20:22:38	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 20:22:38	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 20:22:39		GameInitialized	
+12.07.2020 20:22:39	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 20:22:39	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 20:22:40	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:22:40	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:22:40	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 20:22:40	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 20:22:41	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:41	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:42	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:22:42	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 20:22:42	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:22:42	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:43	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:43	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:43	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 20:22:44	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:22:44	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:22:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:45	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:46	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:22:47	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:22:47	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:22:47	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:47	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:22:48	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:22:49	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:22:49	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:22:49		Score	5
+12.07.2020 20:22:50	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:22:50		Score	10
+12.07.2020 20:22:50	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 20:22:50	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+12.07.2020 20:22:55		GameInitialized	
+12.07.2020 20:22:55	System.Windows.Forms.Timer, Interval: 100	Started	
+12.07.2020 20:22:57	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:58	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:22:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:22:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:22:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:22:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:22:59	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:00	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 20:23:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 20:23:01	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:02	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:23:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:23:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:23:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:03	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:04	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 20:23:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:05	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:06	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:06	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:06		Score	5
+12.07.2020 20:23:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:07	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:07		Score	10
+12.07.2020 20:23:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:07	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:08	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:08		Score	15
+12.07.2020 20:23:08	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:09	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:09		Score	20
+12.07.2020 20:23:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:09	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:09		Score	25
+12.07.2020 20:23:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:09		Score	25
+12.07.2020 20:23:09	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:09	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:09		Score	25
+12.07.2020 20:23:10	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:10		Score	30
+12.07.2020 20:23:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:10	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:10		Score	30
+12.07.2020 20:23:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:10	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:11	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:11		Score	30
+12.07.2020 20:23:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:11	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:11		Score	30
+12.07.2020 20:23:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:11	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:11		Score	30
+12.07.2020 20:23:11	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:12	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:12		Score	35
+12.07.2020 20:23:12	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:12	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:12		Score	35
+12.07.2020 20:23:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:13		Score	35
+12.07.2020 20:23:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:13		Score	35
+12.07.2020 20:23:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:13		Score	35
+12.07.2020 20:23:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:13		Score	35
+12.07.2020 20:23:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:13		Score	35
+12.07.2020 20:23:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:13		Score	35
+12.07.2020 20:23:13	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:13		Score	40
+12.07.2020 20:23:13	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:13		Score	40
+12.07.2020 20:23:13	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:14	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:14		Score	40
+12.07.2020 20:23:14	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:14		Score	40
+12.07.2020 20:23:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:14	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:14		Score	40
+12.07.2020 20:23:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:14	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:14		Score	40
+12.07.2020 20:23:14	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:14		Score	40
+12.07.2020 20:23:14	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:15		Score	40
+12.07.2020 20:23:15	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:15		Score	45
+12.07.2020 20:23:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:15		Score	45
+12.07.2020 20:23:15	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:15		Score	50
+12.07.2020 20:23:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:15		Score	50
+12.07.2020 20:23:15	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:15	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:15		Score	50
+12.07.2020 20:23:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:16		Score	50
+12.07.2020 20:23:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:16	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:16		Score	55
+12.07.2020 20:23:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:16		Score	55
+12.07.2020 20:23:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:16	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:16	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:16		Score	60
+12.07.2020 20:23:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:17		Score	60
+12.07.2020 20:23:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:17		Score	60
+12.07.2020 20:23:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:17		Score	60
+12.07.2020 20:23:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:17		Score	60
+12.07.2020 20:23:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:17		Score	60
+12.07.2020 20:23:17	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:18		Score	60
+12.07.2020 20:23:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:18		Score	60
+12.07.2020 20:23:18	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:18	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:18		Score	65
+12.07.2020 20:23:18	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:18		Score	70
+12.07.2020 20:23:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:18		Score	70
+12.07.2020 20:23:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:18		Score	70
+12.07.2020 20:23:18	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:18		Score	70
+12.07.2020 20:23:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:19		Score	70
+12.07.2020 20:23:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:19		Score	70
+12.07.2020 20:23:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:19		Score	70
+12.07.2020 20:23:19	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:19		Score	75
+12.07.2020 20:23:19	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:19	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:19		Score	75
+12.07.2020 20:23:19	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:19		Score	80
+12.07.2020 20:23:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:20		Score	80
+12.07.2020 20:23:20	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:20		Score	85
+12.07.2020 20:23:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:20		Score	85
+12.07.2020 20:23:20	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:20		Score	84
+12.07.2020 20:23:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:20		Score	84
+12.07.2020 20:23:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:20		Score	84
+12.07.2020 20:23:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:20	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:20		Score	84
+12.07.2020 20:23:20	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:20		Score	89
+12.07.2020 20:23:20	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 20:23:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:23:21	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:21		Score	89
+12.07.2020 20:23:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:23:21	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:21		Score	89
+12.07.2020 20:23:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	W
+12.07.2020 20:23:21	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:21		Score	88
+12.07.2020 20:23:21	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:21		Score	88
+12.07.2020 20:23:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:21	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:21		Score	93
+12.07.2020 20:23:21	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:21		Score	93
+12.07.2020 20:23:21	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:22	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:22		Score	93
+12.07.2020 20:23:22	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:22		Score	98
+12.07.2020 20:23:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:22	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:22		Score	103
+12.07.2020 20:23:22	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:22		Score	103
+12.07.2020 20:23:22	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:23	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:23		Score	103
+12.07.2020 20:23:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:23	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:23		Score	103
+12.07.2020 20:23:23	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:23		Score	108
+12.07.2020 20:23:23	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:24	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:24		Score	108
+12.07.2020 20:23:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:24	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:25	System.Windows.Forms.Form, Text: 	Form_KeyUp	F
+12.07.2020 20:23:25	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:25		Score	108
+12.07.2020 20:23:25	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:25		Score	108
+12.07.2020 20:23:25	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:25		Score	108
+12.07.2020 20:23:25	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:25		Score	108
+12.07.2020 20:23:26	System.Windows.Forms.Form, Text: 	Form_KeyUp	D
+12.07.2020 20:23:26	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:26		Score	113
+12.07.2020 20:23:26	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:26		Score	113
+12.07.2020 20:23:26	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:26		Score	118
+12.07.2020 20:23:26	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:26		Score	118
+12.07.2020 20:23:27	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:27		Score	118
+12.07.2020 20:23:27	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:27		Score	118
+12.07.2020 20:23:27	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:27		Score	123
+12.07.2020 20:23:27	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:27		Score	123
+12.07.2020 20:23:28	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+12.07.2020 20:23:28		Score	123
+12.07.2020 20:23:28	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:28		Score	122
+12.07.2020 20:23:28	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:28		Score	121
+12.07.2020 20:23:29	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+12.07.2020 20:23:29		Score	120
+12.07.2020 20:23:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	S
+12.07.2020 20:23:29		GameOver	
+12.07.2020 20:23:29	System.Windows.Forms.Form, Text: 	Form_KeyUp	A
+12.07.2020 20:23:31	System.Windows.Forms.Form, Text: 	Form_KeyUp	Escape
+12.07.2020 20:23:31	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing

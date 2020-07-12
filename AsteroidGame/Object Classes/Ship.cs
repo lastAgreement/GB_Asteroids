@@ -39,23 +39,27 @@ namespace AsteroidGame
             Pos = new Point(50, Game.Height/2);
             Dir = new Point(0, 0);
         }
-        public void ChangeVelocity(char keyChar)
+        public void ChangeVelocity(Keys keyCode)
         {
-            switch (keyChar)
+            switch (keyCode)
             {
-                case 's':
-                    if (Dir.Y + deltaSpeed <= maxSpeed)
-                        Dir.Y += deltaSpeed;
-                    break;
-                case 'w':
+                case Keys.W:
+                case Keys.Up:
                     if (Dir.Y - deltaSpeed >= -maxSpeed)
                         Dir.Y -= deltaSpeed;
                     break;
-                case 'a':
+                case Keys.A:
+                case Keys.Left:
                     if (Dir.X - deltaSpeed >= -maxSpeed)
                         Dir.X -= deltaSpeed;
                     break;
-                case 'd':
+                case Keys.S:
+                case Keys.Down:
+                    if (Dir.Y + deltaSpeed <= maxSpeed)
+                        Dir.Y += deltaSpeed;
+                    break;
+                case Keys.D:
+                case Keys.Right:
                     if (Dir.X + deltaSpeed <= maxSpeed)
                         Dir.X += deltaSpeed;
                     break;

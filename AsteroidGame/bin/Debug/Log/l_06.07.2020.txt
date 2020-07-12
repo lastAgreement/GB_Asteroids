@@ -514,3 +514,236 @@
 06.07.2020 20:14:33		Score	35
 06.07.2020 20:14:35	System.Windows.Forms.Form, Text: 	Form_KeyPress	
 06.07.2020 20:14:35	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing
+
+=====log 06.07.2020 21:51:10=====
+06.07.2020 21:51:10		GameInitialized	
+06.07.2020 21:51:10	System.Windows.Forms.Timer, Interval: 100	Started	
+06.07.2020 21:51:21	System.Windows.Forms.Form, Text: 	Form_KeyPress	в
+06.07.2020 21:51:24	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:51:27	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:30	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:31	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:31	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:32	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:32	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:32	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:32	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:51:32	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:33	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:33	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:33	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:34	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:34	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:34	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:34	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:34	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:34	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:34	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:34	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:34	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:34	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:35	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:35	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:51:36	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:51:36	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:37	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:37	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:38	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:51:38		Score	0
+06.07.2020 21:51:38	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:38	AsteroidGame.Battery	Battery_BatterySpent	SHIP_COLLIEDED_WITH_BATTERY
+06.07.2020 21:51:40	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:40	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:51:40		Score	0
+06.07.2020 21:51:40	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:51:40		Score	0
+06.07.2020 21:51:40	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:40	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:40	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:40	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:51:40		Score	0
+06.07.2020 21:51:41	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:41	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:41	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:51:41		Score	5
+06.07.2020 21:51:42	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:51:42	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:43	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:51:44	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:44	AsteroidGame.Battery	Battery_BatterySpent	SHIP_COLLIEDED_WITH_BATTERY
+06.07.2020 21:51:44	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:45	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:51:45	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:46	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:46	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:46	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:48	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:48	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:51:49	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:51:49	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:51:49	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:51:49	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:49	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:49	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:51:49		Score	5
+06.07.2020 21:51:49	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:50	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:51:50		Score	5
+06.07.2020 21:51:50	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:50	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:51:50	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:51	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:51	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:51	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:51:51	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:51:52	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:51:52	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:51:52		Score	10
+06.07.2020 21:51:52	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:51:53	AsteroidGame.Battery	Battery_BatterySpent	FLEW_AWAY
+06.07.2020 21:51:53	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:51:53		Score	15
+06.07.2020 21:51:54	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:51:54		Score	20
+06.07.2020 21:51:55	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:51:55	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:51:55		Score	20
+06.07.2020 21:51:55	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:51:55		Score	25
+06.07.2020 21:51:55	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:51:55		Score	25
+06.07.2020 21:51:55	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:51:55		Score	30
+06.07.2020 21:51:55	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:51:55		Score	35
+06.07.2020 21:51:56	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:51:56		Score	35
+06.07.2020 21:51:56	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:51:56		Score	40
+06.07.2020 21:51:58	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:58	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:51:59	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:03	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:03		Score	45
+06.07.2020 21:52:06	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:06		Score	50
+06.07.2020 21:52:07	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:08	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:08	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:08	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:09	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:09	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:09	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:10	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:10	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:10		Score	55
+06.07.2020 21:52:12	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:12		Score	60
+06.07.2020 21:52:13	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:13		Score	65
+06.07.2020 21:52:13	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:13		Score	70
+06.07.2020 21:52:14	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:14	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:15	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:52:16	AsteroidGame.Battery	Battery_BatterySpent	SHIP_COLLIEDED_WITH_BATTERY
+06.07.2020 21:52:16	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:52:16		Score	70
+06.07.2020 21:52:16	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:16	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:17	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:52:17		Score	70
+06.07.2020 21:52:17	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:17	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:17	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:18	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:18	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:20	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:21	AsteroidGame.Battery	Battery_BatterySpent	FLEW_AWAY
+06.07.2020 21:52:22	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:22	AsteroidGame.Battery	Battery_BatterySpent	FLEW_AWAY
+06.07.2020 21:52:22	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:22	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:52:23	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:23	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:52:24	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:52:24	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:24	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:25	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:26	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:52:26	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:27	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:27	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:29	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:34	AsteroidGame.Battery	Battery_BatterySpent	SHIP_COLLIEDED_WITH_BATTERY
+06.07.2020 21:52:35	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:35	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:35		Score	69
+06.07.2020 21:52:36	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:36	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:36	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:37	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:37	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:37	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:38	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:38	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:39	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:40	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:52:40	AsteroidGame.Ship	Ship_ShipDamaged	SHIP_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:40		Score	68
+06.07.2020 21:52:41	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:42	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:52:42	AsteroidGame.Battery	Battery_BatterySpent	SHIP_COLLIEDED_WITH_BATTERY
+06.07.2020 21:52:42	AsteroidGame.Battery	Battery_BatterySpent	SHIP_COLLIEDED_WITH_BATTERY
+06.07.2020 21:52:43	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:52:44	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:44	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:44	System.Windows.Forms.Form, Text: 	Form_KeyPress	a
+06.07.2020 21:52:44	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:45	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:45	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:46	System.Windows.Forms.Form, Text: 	Form_KeyPress	s
+06.07.2020 21:52:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:47	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:47		Score	73
+06.07.2020 21:52:47	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:48	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:48	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:48	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:49	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:49	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:49	System.Windows.Forms.Form, Text: 	Form_KeyPress	f
+06.07.2020 21:52:50	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:50	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:50		Score	78
+06.07.2020 21:52:51	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:52:51		Score	78
+06.07.2020 21:52:52	System.Windows.Forms.Form, Text: 	Form_KeyPress	w
+06.07.2020 21:52:52	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:52		Score	83
+06.07.2020 21:52:53	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:53		Score	88
+06.07.2020 21:52:54	AsteroidGame.Bullet	Bullet_BulletSpent	BULLET_COLLIEDED_WITH_ASTEROID
+06.07.2020 21:52:54		Score	93
+06.07.2020 21:52:54	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:52:54		Score	93
+06.07.2020 21:52:55	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:52:55		Score	93
+06.07.2020 21:52:56	System.Windows.Forms.Form, Text: 	Form_KeyPress	d
+06.07.2020 21:52:56	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:52:56		Score	93
+06.07.2020 21:52:57	AsteroidGame.Bullet	Bullet_BulletSpent	FLEW_AWAY
+06.07.2020 21:52:57		Score	93
+06.07.2020 21:53:02	System.Windows.Forms.Form, Text: 	Form_KeyPress	
+06.07.2020 21:53:02	System.Windows.Forms.Form, Text: 	Form_FormClosing	UserClosing

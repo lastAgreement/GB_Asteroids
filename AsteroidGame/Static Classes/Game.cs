@@ -19,6 +19,7 @@ namespace AsteroidGame
         #region Properties
         static DateTime startOn = DateTime.Now;
         public static int Score { get; private set; }
+        public static int Level { get; private set; }
         public static int Width { get; private set; }
         public static int Height { get; private set; }
         #endregion
@@ -30,8 +31,8 @@ namespace AsteroidGame
         #endregion
         #region Init Methods
         static Game() {
-            logger = new Action<object, string, string>(LogUtils.WriteToConsole);
-            logger += new Action<object, string, string>(LogUtils.WriteToFile);
+            logger = new Action<object, string, string>(LogUtils.WriteLogToConsole);
+            logger += new Action<object, string, string>(LogUtils.WriteLogToFile);
         }
         public static void Init(Form form)
         {
@@ -42,6 +43,7 @@ namespace AsteroidGame
             SubscribeFormEvents(form);
             InitObjects();
             Score = 0;
+            Level = 1;
             logger(null, "GameInitialized", null);
             SetTimer();
         }
@@ -57,7 +59,7 @@ namespace AsteroidGame
         private static void SubscribeFormEvents(Form form)
         {
             form.FormClosing += Form_FormClosing;
-            form.KeyPress += Form_KeyPress;
+            form.KeyUp += Form_KeyUp;
         }
         private static void SetTimer()
         {
@@ -107,25 +109,30 @@ namespace AsteroidGame
         private static void Form_FormClosing(object sender, FormClosingEventArgs e)
         {
             logger(sender, "Form_FormClosing", e.CloseReason.ToString());
-            timer.Stop();
+            StopGame();
         }
-        private static void Form_KeyPress(object sender, KeyPressEventArgs e)
+        private static void Form_KeyUp(object sender, KeyEventArgs e)
         {
-            logger(sender, "Form_KeyPress", e.KeyChar.ToString());
-            switch (e.KeyChar)
+            logger(sender, "Form_KeyUp", e.KeyCode.ToString());
+            switch (e.KeyCode)
             {
-                case 'w':
-                case 's':
-                case 'a':
-                case 'd':
-                    Ship.ChangeVelocity(e.KeyChar);
-                    break;
-                case 'f':
+                case Keys.W:
+                case Keys.A:
+                case Keys.S:
+                case Keys.D:
+                case Keys.Up:
+                case Keys.Left:
+                case Keys.Down:
+                case Keys.Right:
+                    Ship.ChangeVelocity(e.KeyCode);
+                    break; 
+                case Keys.F:                  
+                case Keys.Space:
                     Bullet bullet = Ship.Fire();
                     bullet.BulletSpent += Bullet_BulletSpent;
                     Bullets.Add(bullet);
                     break;
-                case (char)Keys.Escape:
+                case Keys.Escape:
                     Form gameForm = (Form)sender;
                     gameForm.Close();
                     break;
@@ -182,7 +189,7 @@ namespace AsteroidGame
             string GameSize = Game.Width + "x" + Game.Height;
             string GameTime = (DateTime.Now - startOn).ToString().Substring(0,8);
             Game.Buffer.Graphics.DrawString(GameSize + "\t" + GameTime, SystemFonts.DefaultFont, Brushes.White, 10, 10);
-            Buffer.Graphics.DrawString("Energy:" + Ship.Energy + "\tScore:" + Score, SystemFonts.DefaultFont, Brushes.White, 10, 30);
+            Buffer.Graphics.DrawString("Energy: " + Ship.Energy + "\tLevel: " + Level + "\tScore: " + Score, SystemFonts.DefaultFont, Brushes.White, 10, 30);
 
             Buffer.Render();
         }
@@ -206,6 +213,11 @@ namespace AsteroidGame
                 battery.BatterySpent += Battery_BatterySpent; 
                 battery.BatterySpent += Ship.Battery_BatterySpent;
                 Batteries.Add(battery);
+            }
+            if (Score >= 10 * Level)
+            {
+                Level++;
+                Asteroids.Add(new Asteroid());
             }
         }
         private static void PerformCollisions()
@@ -244,6 +256,11 @@ namespace AsteroidGame
                 else throw new Exception("Unexpected object to be deleted " + obj.ToString());
             }
             ToBeRemovedObjects.Clear();
+        }
+        private static void StopGame()
+        {
+            timer.Stop();
+            if (Score != 0) LogUtils.WriteScoreToFile(Score);
         }
         #endregion
     }

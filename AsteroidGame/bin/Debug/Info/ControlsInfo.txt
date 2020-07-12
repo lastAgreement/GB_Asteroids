@@ -1,0 +1,8 @@
+W or ↑	speed up
+A or ←	move up
+S or ↓	slow down
+D or →	move down
+
+F or Space	shoot
+
+Esc		Stop game

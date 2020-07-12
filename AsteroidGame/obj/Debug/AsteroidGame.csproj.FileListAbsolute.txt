@@ -13,3 +13,7 @@ C:\Projects\AsteroidGame\AsteroidGame\bin\Debug\Images\Asteroid2.png
 C:\Projects\AsteroidGame\AsteroidGame\bin\Debug\Images\Asteroid3.png
 C:\Projects\AsteroidGame\AsteroidGame\bin\Debug\Images\ship1.png
 C:\Projects\AsteroidGame\AsteroidGame\bin\Debug\Images\energizer.png
+C:\Projects\AsteroidGame\AsteroidGame\obj\Debug\AsteroidGame.csproj.CoreCompileInputs.cache
+C:\Projects\AsteroidGame\AsteroidGame\obj\Debug\AsteroidGame.SplashScreenV2.resources
+C:\Projects\AsteroidGame\AsteroidGame\obj\Debug\AsteroidGame.csproj.GenerateResource.cache
+C:\Projects\AsteroidGame\AsteroidGame\obj\Debug\AsteroidGame.DialogForm.resources
